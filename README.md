@@ -20,3 +20,4 @@
 - Found optimal labeling for this dataset
 
 ![Description](Figure_1.png)
+![Cluster Assignments](Figure_2.png)
