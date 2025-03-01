@@ -18,3 +18,5 @@
 ## Results
 - Found that K = 3 was the optimal K value for this synthetic data set
 - Found optimal labeling for this dataset
+
+![Description](figure_1.png)
